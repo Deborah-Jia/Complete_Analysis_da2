@@ -1,7 +1,0 @@
-"";"ds";"search_id";"property_type";"property_subtype";"price_huf_low";"price_huf_high";"area_size_low";"area_size_high";"lot_size_low";"lot_size_high";"total_room_count_low";"total_room_count_high";"district"
-"1";2021-02-15;"ad2be212-0c25-4e3a-aabf-be089053beba";"house";NA;45000000;69000000;NA;NA;NA;NA;NA;NA;"Budapest XVII."
-"2";2021-02-15;"ab72ba19-d00f-49e2-8d0d-c6836f030758";"apartment";NA;0;48000000;40;2147483647;NA;NA;NA;NA;"Budapest XI."
-"3";2021-02-06;"24bbb050-2ecb-4078-a8dc-65e968f72f43";"apartment";NA;150000000;200000000;NA;NA;NA;NA;NA;NA;"Budapest III."
-"4";2021-02-06;"f7d87e6e-0f24-4d9e-ae82-2a448d6290bf";"apartment";NA;2000000;29000000;50;2147483647;NA;NA;NA;NA;"Budapest XVI."
-"5";2021-02-14;"71ea3cc4-5326-4bbe-a2ff-20dbae0d9aa8";"apartment";NA;200000000;400000000;95;205;NA;NA;2;2147483647;"Budapest I."
-"6";2021-02-22;"efe9b442-2816-471b-ac09-d9cfdffe44af";"apartment";NA;0;130000000;NA;NA;NA;NA;NA;NA;"Budapest XI."
